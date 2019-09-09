@@ -1,0 +1,4 @@
+La idea es la siguiente. Quiero que hagas una página web, puro HTML, no importa que se vea feo, sólo que esté medio presentable.
+ Ésta página trabajará con el Framework Gin (https://github.com/gin-gonic/gin). 
+Ésta página me va a permiter, cuando la ejecute, tener mi propia libreta telefónica. 
+Sólo se va a almacenar el nombre y el número de celular de mis contactos, como son sólo dos campos, vas a realizar el almacenamiento usando Redis (https://github.com/go-redis/redis)
